@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">TheSkillsShop</string>
+    <string name="WelcomeText">WELCOME</string>
+    <string name="homeimage">HomeImage</string>
+    <string name="HomeText">HOME</string>
+    <string name="dashboardimage">DashboardImage</string>
+    <string name="DashboardText">DASHBOARD</string>
+    <string name="contactsimage">ContactsImage</string>
+    <string name="ContactsText">CONTACTS</string>
+    <string name="operationsimage">OperationsImage</string>
+    <string name="OperationsText">OPERATIONS</string>
+    <string name="blogimage">BlogImage</string>
+    <string name="BlogText">BLOG</string>
+    <string name="messagesimage">MessagesImage</string>
+    <string name="MessagesText">MESSAGES</string>
+    <string name="OperationsViewText">OPERATIONS</string>
+    <string name="bookimage">BookImage</string>
+    <string name="BookText">BOOK</string>
+    <string name="consultimage">ConsultImage</string>
+    <string name="ConsultText">CONSULT</string>
+    <string name="payimage">PayImage</string>
+    <string name="PayText">PAY</string>
+    <string name="requestimage">RequestImage</string>
+    <string name="RequestText">REQUEST</string>
+    <string name="ContactsTitleText">CONTACTS</string>
+    <string name="phonecallimage">PhonecallImage</string>
+    <string name="PhonecallText">CALL</string>
+    <string name="facebookimage">FacebookImage</string>
+    <string name="FacebookText">FACEBOOK</string>
+    <string name="emailimage">EmailImage</string>
+    <string name="EmailText">EMAIL</string>
+    <string name="instagramimage">InstagramImage</string>
+    <string name="InstagramText">INSTAGRAM</string>
+    <string name="DashboardTitleText">DASHBOARD</string>
+    <string name="customersbookingimage">CustomerBookingImage</string>
+    <string name="CustomersBookingText">CUSTOMERS BOOKING</string>
+    <string name="customersratingimage">CustomersRatingImage</string>
+    <string name="CustomersRatingText">CUSTOMERS RATING</string>
+    <string name="SkillsPersonRegistrationImage">SkillsPersonRegistrationImage</string>
+    <string name="SkillsPersonRegistrationText">SKILLS PERSON \n REGISTRATION</string>
+    <string name="SkillsPersonRatingImage">SkillsPersonRatingImage</string>
+    <string name="SkillsPersonRatingText">SKILLS PERSON \n RATING</string>
+    <string name="HomeTitleText">HOME</string>
+    <string name="ServicesImage">ServicesImage</string>
+    <string name="ServicesText">SERVICES</string>
+    <string name="AboutusImage">AboutusImage</string>
+    <string name="AboutusText">ABOUT US</string>
+    <string name="WorkingHoursImage">WorkingHoursImage</string>
+    <string name="WorkingHoursText">WORKING HOURS</string>
+    <string name="LocateusImage">LocateusImage</string>
+    <string name="LocateusText">LOCATE US</string>
+    <string name="messages">MESSAGES</string>
+    <string name="messages_first_name">First Name</string>
+    <string name="messages_surname">Surname</string>
+    <string name="messages_middle_name">Middle Name</string>
+    <string name="messages_phone_number">Phone Number</string>
+    <string name="messages_email_address">Email Address</string>
+    <string name="messages_text_message">Text Message</string>
+    <string name="messages_reset">RESET</string>
+    <string name="messages_submit">SUBMIT</string>
+    <string name="servicestitle">SERVICES</string>
+    <string name="plumbing">PLUMBING</string>
+    <string name="carpentry">CARPENTRY</string>
+    <string name="cabinet_making">CABINET MAKING</string>
+    <string name="masonry">MASONRY</string>
+    <string name="gardening">GARDENING</string>
+    <string name="landscaping">LANDSCAPING</string>
+    <string name="electrical_work">ELECTRICAL WORK</string>
+    <string name="painting">PAINTING</string>
+    <string name="food_delivery">FOOD DELIVERY</string>
+    <string name="general_delivery">GENERAL DELIVERY</string>
+    <string name="transportation">TRANSPORTATION</string>
+    <string name="about_us_section">ABOUT US</string>
+    <string name="about_us_description"><b><i>The Skills Shop</i></b> is a <b><i>One Stop Shop</i></b>
+        for <b><i>QUALITY PEOPLE</i></b> \n providing
+        <b><i>Construction, Home Improvement, Landscaping, \n Gardening, Labourers, Plumbing, Electrical,
+            \n Carpentry, Wood Work, Cabinet Making Services</i></b> \n at a
+        <b><i>FAIR, PREDICTABLE</i></b> AND <b><i>CONSISTENT PRICE.</i></b></string>
+    <string name="working_hours_title">WORKING HOURS</string>
+    <string name="monday">MONDAY</string>
+    <string name="opening_hours_monday">OPENING HOURS:\n 9:00 A.M</string>
+    <string name="closing_hours_monday">CLOSING HOURS:\n 5:00 P.M</string>
+    <string name="tuesday">TUESDAY</string>
+    <string name="opening_hours_tuesday">OPENING HOURS:\n 9:00 A.M</string>
+    <string name="closing_hours_tuesday">CLOSING HOURS:\n 5:00 P.M</string>
+    <string name="wednesday">WEDNESDAY</string>
+    <string name="opening_hours_wednesday">OPENING HOURS:\n 9:00 A.M</string>
+    <string name="closing_hours_wednesday">CLOSING HOURS:\n 5:00 P.M</string>
+    <string name="thursday">THURSDAY</string>
+    <string name="opening_hours_thursday">OPENING HOURS:\n 9:00 A.M</string>
+    <string name="closing_hours_thursday">CLOSING HOURS:\n 5:00 P.M</string>
+    <string name="friday">FRIDAY</string>
+    <string name="opening_hours_friday">OPENING HOURS:\n 9:00 A.M</string>
+    <string name="closing_hours_friday">CLOSING HOURS:\n 5:00 P.M</string>
+    <string name="saturday">SATURDAY</string>
+    <string name="opening_hours_saturday">OPENING HOURS:\n 9:00 A.M</string>
+    <string name="closing_hours_saturday">CLOSING HOURS:\n 12:00 P.M</string>
+    <string name="customers_booking_title">CUSTOMERS BOOKINGS</string>
+    <string name="customers_booking_first_name">First Name</string>
+    <string name="customers_booking_surname">Surname</string>
+    <string name="customers_booking_middle_name">Middle Name</string>
+    <string name="customers_booking_id_number">Id Number</string>
+    <string name="customers_booking_customer_service_number">Customer Service Number</string>
+    <string name="customers_booking_important">IMPORTANT:The Customer Service Number will \n be filled by the system administrator upon registration</string>
+    <string name="customers_booking_phone_number">Phone Number</string>
+    <string name="customers_booking_alternative_phone_number">Alternative Phone Number</string>
+    <string name="customers_booking_email">Email</string>
+    <string name="customers_booking_address">Address</string>
+    <string name="customers_booking_service_important">Please select the service you \n require from the list below</string>
+    <string name="customers_booking_service_required">Please describe the nature \n of the service that you require</string>
+    <string name="customers_booking_important_date">Please select a date that the <b>Skills Persons</b> \n will come to provide <i>Services</i></string>
+    <string name="customers_booking_service_date">SERVICE DATE</string>
+    <string name="customers_booking_important_service_time">Please select the time the <b>Skills Persons</b> will \n come to provide <i>Services</i> </string>
+    <string name="customers_booking_service_time">SERVICE TIME</string>
+    <string name="customers_rating">CUSTOMERS RATINGS</string>
+    <string name="important_customers_rating"><b>IMPORTANT:</b>To all our esteemed <i>customers</i>, this section is for <b>Skills Persons</b> to rate how they were treated.To rate a <b>Skills Persons</b>, please go to the <i>Skills Persons</i> rating section.</string>
+    <string name="ratings_customer_service_number">Customer Service Number</string>
+    <string name="customers_rating_rate">RATE</string>
+    <string name="skills_person_rating">SKILLS PERSONS RATINGS</string>
+    <string name="important_text_ratings"><b>IMPORTANT:</b>To all our esteemed <i>skills persons</i>, this section is for <b>Customers</b> to rate how you handled yourself while offering services.To rate a <b>Customer</b>, please go to the <i>Customers</i> rating section.</string>
+    <string name="ratings_skills_person_service_number">Skills Persons Service Number</string>
+    <string name="skills_person_registration">SKILLS PERSONS \n REGISTRATIONS</string>
+    <string name="skills_person_registration_first_name">First Name</string>
+    <string name="skills_person_registration_surname">Surname</string>
+    <string name="skills_person_registration_middle_name">Middle Name</string>
+    <string name="skills_person_registration_id_number">Id Number</string>
+    <string name="skills_person_registration_important">IMPORTANT:The Skills Persons Service Number will \n be filled by the system administrator upon registration</string>
+    <string name="skills_person_registration_skills_persons_service_number">Skills Persons Service Number</string>
+    <string name="skills_person_registration_phone_number">Phone Number</string>
+    <string name="skills_person_registration_alternative_phone_number">Alternative Phone Number</string>
+    <string name="skills_person_registration_email">Email</string>
+    <string name="skills_person_registration_address">Address</string>
+    <string name="skills_person_registration_skillset_offered">Please select the skill-set you \n provide from the list below</string>
+    <string name="skills_person_registration_skillset_required">Please describe the nature \n of the skill-set you provide</string>
+    <string name="skills_person_registration_image_upload">Image Upload</string>
+    <string name="skills_person_registration_report_upload">Report Upload</string>
+    <string name="skills_person_registration_letters_upload">Letters Of Recommendation Upload</string>
+    <string-array name="services_array">
+        <item>Plumbing</item>
+        <item>Carpentry/Cabinet Making</item>
+        <item>Masonry</item>
+        <item>Gardening</item>
+        <item>Landscaping</item>
+        <item>Electrical Works</item>
+        <item>Painting</item>
+        <item>Food/Delivery Service</item>
+        <item>General Delivery Service</item>
+        <item>Transportation</item>
+    </string-array>
+</resources>

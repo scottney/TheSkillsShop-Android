@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MessagesActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/messages"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/messages"
+            android:textSize="26sp"
+            android:padding="10dp"
+            android:layout_gravity="center"/>
+
+        <EditText
+            android:id="@+id/first_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textSize="22sp"
+            android:hint="@string/messages_first_name"
+            android:padding="5dp"
+            android:background="@drawable/input_bg"
+            android:importantForAutofill="no"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/surname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textSize="22sp"
+            android:hint="@string/messages_surname"
+            android:padding="5dp"
+            android:background="@drawable/input_bg"
+            android:importantForAutofill="no"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/middle_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textSize="22sp"
+            android:hint="@string/messages_middle_name"
+            android:padding="5dp"
+            android:background="@drawable/input_bg"
+            android:importantForAutofill="no"
+            android:inputType="textPersonName"/>
+
+        <EditText
+            android:id="@+id/phone_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textSize="22sp"
+            android:hint="@string/messages_phone_number"
+            android:padding="5dp"
+            android:background="@drawable/input_bg"
+            android:importantForAutofill="no"
+            android:inputType="phone"/>
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textSize="22sp"
+            android:hint="@string/messages_email_address"
+            android:padding="5dp"
+            android:background="@drawable/input_bg"
+            android:importantForAutofill="no"
+            android:inputType="textEmailAddress"/>
+
+        <EditText
+            android:id="@+id/text_message"
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:textSize="22sp"
+            android:hint="@string/messages_text_message"
+            android:padding="5dp"
+            android:background="@drawable/input_bg"
+            android:importantForAutofill="no"
+            android:scrollbars="vertical"
+            android:inputType="textMultiLine"/>
+
+        <!--
+        <TextClock
+            android:id="@+id/created_at"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:textSize="22sp"
+            android:padding="5dp"
+            android:background="@drawable/input_bg"/>
+            -->
+
+        <Button
+            android:id="@+id/reset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="55dp"
+            android:layout_marginBottom="75dp"
+            android:layout_marginLeft="55dp"
+            android:background="@color/colorDanger"
+            android:textColor="#FFF"
+            android:onClick="reset"
+            android:text="@string/messages_reset"/>
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-124dp"
+            android:layout_marginBottom="75dp"
+            android:layout_marginLeft="215dp"
+            android:background="@color/colorGo"
+            android:textColor="#FFF"
+            android:onClick="submit"
+            android:text="@string/messages_submit"/>
+
+    </LinearLayout>
+
+</ScrollView>
